@@ -1,0 +1,9 @@
+apiVersion: jiraops.aspen.com/v1
+kind: Jiratask
+metadata:
+  labels:
+    app.kubernetes.io/name: jiraops-operator
+    app.kubernetes.io/managed-by: kustomize
+  name: jiratask-sample
+spec:
+  # TODO(user): Add fields here

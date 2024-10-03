@@ -1,0 +1,4 @@
+## Append samples of your project ##
+resources:
+- jiraops_v1_jiratask.yaml
+# +kubebuilder:scaffold:manifestskustomizesamples
